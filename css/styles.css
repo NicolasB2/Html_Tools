@@ -1,9 +1,27 @@
-
+	* {
+		box-sizing: border-box;
+	}
 	body {
 		Background-image: url(https://ak8.picdn.net/shutterstock/videos/23164888/thumb/1.jpg);
+		font-family:Verdana;
+		color:black;
 	}
-
+    div {
+        text-align: center;
+    }
     h1{
+        color: white;
+        font-size: 150%;
+        text-align:center;
+        margin:5%;
+    }
+	h2{
+        color: white;
+        font-size: 150%;
+        text-align:center;
+        margin:5%;
+    }
+	h3{
         color: white;
         font-size: 150%;
         text-align:center;
@@ -32,4 +50,24 @@
     table td:hover{
         background: black;
         color:white;
+    }
+    a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
     }
