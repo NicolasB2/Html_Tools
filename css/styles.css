@@ -1,0 +1,35 @@
+
+	body {
+		Background-image: url(https://ak8.picdn.net/shutterstock/videos/23164888/thumb/1.jpg);
+	}
+
+    h1{
+        color: white;
+        font-size: 150%;
+        text-align:center;
+        margin:5%;
+    }
+    table {
+        font-family: arial;
+        border-collapse: collapse;
+        width: 80%;
+        align=center;
+        height: auto;
+        margin: 9%;
+        background-color:white;
+    }
+    td, th {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+        }
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+    table tr:hover{
+ 	     background: aqua;
+    }
+    table td:hover{
+        background: black;
+        color:white;
+    }
