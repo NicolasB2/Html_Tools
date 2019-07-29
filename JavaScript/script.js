@@ -8,7 +8,7 @@ function myFunction() {
   x.style.backgroundColor = "#666"; 
   x.style.padding = "30px"; 
   x.style.textAlign = "center"; 
-  x.style.fontSize= "35px"; 
+  x.style.fontSize= "25px"; 
   x.style.color = "white"; 
   
    var y = document.getElementsByTagName("h2");
