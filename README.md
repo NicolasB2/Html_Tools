@@ -1,5 +1,6 @@
 # Html_Tools
 
 *Topics*
-- Java Script
 - css
+- Templates
+- JavaScript
